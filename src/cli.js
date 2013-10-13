@@ -8,7 +8,7 @@ var USAGE =
 	'  pipe           The pipe to read from or write to\n'+
 	'  arguments...   A list of arguments to pass to the pipe in the form\n'+
 	'                 arg=value another-arg=another-value\n'+
-	'  -h, --help     Shows this help screen'
+	'  -h, --help     Shows this help screen\n'+
 	'  -v, --verbose  Enable verbose debugging output'
 
 function usage() {
