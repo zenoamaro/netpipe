@@ -1,1 +1,3 @@
-module.exports = require('./src/netpipe')
+module.exports = {
+	NetPipe: require('./src/netpipe')
+}
