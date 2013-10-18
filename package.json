@@ -15,6 +15,9 @@
 		"pipe": "node pipe.js"
 	},
 
-	"dependencies": {},
+	"dependencies": {
+		"optimist": "~0.6"
+	},
+
 	"devDependencies": {}
 }
